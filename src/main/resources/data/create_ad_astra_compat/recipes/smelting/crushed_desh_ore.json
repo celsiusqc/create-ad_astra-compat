@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "create_ad_astra_compat:crushed_desh_ore"
+  },
+  "result": "ad_astra:desh_ingot"
+}

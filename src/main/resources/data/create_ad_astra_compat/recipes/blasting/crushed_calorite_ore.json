@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "create_ad_astra_compat:crushed_calorite_ore"
+  },
+  "result": "ad_astra:calorite_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}
