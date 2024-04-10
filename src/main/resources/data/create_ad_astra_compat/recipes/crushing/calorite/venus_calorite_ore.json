@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ad_astra:venus_calorite_ore"
+    }
+  ],
+  "processingTime": 400,
+  "results": [
+    {
+      "item": "create_ad_astra_compat:crushed_calorite_ore"
+    },
+    {
+      "chance": 0.75,
+      "item": "create_ad_astra_compat:crushed_calorite_ore"
+    },
+    {
+      "chance": 0.75,
+      "item": "create:experience_nugget"
+    },
+    {
+      "chance": 0.125,
+      "item": "ad_astra:venus_cobblestone"
+    }
+  ]
+}
